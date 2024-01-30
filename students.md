@@ -64,3 +64,9 @@ I am Cheung Tsun Kit.
 
 [My Github account](https://github.com/22029144d)
 
+## [CHAN Yuen Ho]
+I am Eddy
+
+[My Github account](https://github.com/EddyChan1129)
+
+
